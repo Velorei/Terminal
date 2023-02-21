@@ -1,5 +1,5 @@
 |Linux terminal (GitBash) commands|
-
+|----------------|:--------------:|
 |1. Посмотреть где я|```pwd```|
 |2. Создать папку|```mkdir Terminal_dz_1```|
 |3. Зайти в папку|```cd Terminal_dz_1/```|
