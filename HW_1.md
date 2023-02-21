@@ -32,4 +32,24 @@
 |||
 |Задание*||
 |1. Отправить http запрос на сервер|```curl "http://162.55.220.72:5005/object_info_3?name=Valeriia&age=18&salary=500"```|
-|2. Написать скрипт который выполнит автоматические пункты|```#!/bin/bash``` ``` cd Terminal_dz_1; mkdir p1 p2 p3; cd p1; touch 1.txt 2.txt 3.txt 4.json 5.json; mkdir dir1 dir2 dir3; ls -la; mv 1.txt dir2/1.txt; mv 2.txt dir2/2.txt```|
+|2. Написать скрипт который выполнит автоматические пункты|```nano script.sh```|
+-------------------------------------
+|```
+#!/bin/bash
+mkdir skript
+cd skript
+mkdir skript_f1 skript_f2 skript_f3
+cd skript_f3
+touch skr_text1.txt skr_text2.txt skr_text3.txt skr_js1.json skr_js2.json
+mkdir skr1 skr2 sk3
+ls -la
+cp skr_text1.txt skr_js1.json skr1
+```|
+------------------------------------
+```
+ctrl^x 
+Y(yes)
+return
+```
+------------------------------------
+```bash script.sh```
