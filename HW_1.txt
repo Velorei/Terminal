@@ -1,0 +1,23 @@
+Linux terminal (GitBash) commands
+
+1. Посмотреть где я			```pwd```
+2. Создать папку			```mkdir Terminal_dz_1```
+3. Зайти в папку			```cd Terminal_dz_1/```
+4. Создать 3 папки			```mkdir d1 d2 d3```
+5. Зайти в любую папку			```cd d1```
+6. Создать 5 файлов (3 txt, 2 json)	```touch dz1.txt dz2.txt dz3.txt dz4.json dz5.json```
+7. Создать 3 папки			```mkdir p1 p2 p3```
+8. Вывести содержимое папки		```ls``` или ```ls -la```
+9. Открыть любой txt файл		```vim dz1.txt```
+10. Написать туда что-нибудь		```нажать на клавишу "i", ввести текст:	pwd
+						cd
+						mkdir
+						cat
+						git add
+						ls
+						git commit
+						git config
+						git init
+						git push```
+11. Сохранить и выйти			```shift```+```:```+```wq```+```return```
+12. Выйти из папки на уровень выше	```cd ..```	
