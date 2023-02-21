@@ -29,4 +29,7 @@
 |18. Вывести несколько последних строк из текстового файла|```tail -2 dz1.txt```|
 |19. Просмотреть содержимое длинного файла|```less dz1.txt```|
 |20. Вывести дату и время|```date```|
-
+|||
+|Задание*||
+|1. Отправить http запрос на сервер|```curl "http://162.55.220.72:5005/object_info_3?name=Valeriia&age=18&salary=500"```|
+|2. Написать скрипт который выполнит автоматические пункты|```#!/bin/bash``` ``` cd Terminal_dz_1; mkdir p1 p2 p3; cd p1; touch 1.txt 2.txt 3.txt 4.json 5.json; mkdir dir1 dir2 dir3; ls -la; mv 1.txt dir2/1.txt; mv 2.txt dir2/2.txt```|
