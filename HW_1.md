@@ -34,7 +34,7 @@
 |1. Отправить http запрос на сервер|```curl "http://162.55.220.72:5005/object_info_3?name=Valeriia&age=18&salary=500"```|
 |2. Написать скрипт который выполнит автоматические пункты|```nano script.sh```|
 -------------------------------------
-|```
+```
 #!/bin/bash
 mkdir skript
 cd skript
@@ -44,7 +44,7 @@ touch skr_text1.txt skr_text2.txt skr_text3.txt skr_js1.json skr_js2.json
 mkdir skr1 skr2 sk3
 ls -la
 cp skr_text1.txt skr_js1.json skr1
-```|
+```
 ------------------------------------
 ```
 ctrl^x 
