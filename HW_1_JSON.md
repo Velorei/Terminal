@@ -10,7 +10,7 @@
 |8. Отправить изменения на внешний репозиторий|```git add new.json``` + ```git commit -m "new.json.file"``` + ```git push```|
 |9. Создать файл preferences.json|```touch preferences.json```|
 |10. В файл preferences.json добавить информацию о своих предпочтениях (Любимый фильм, любимый сериал, любимая еда, любимое время года, сторона которую хотели бы посетить) в формате JSON|[preferences.json](https://github.com/Velorei/Terminal/blob/main/preferences.json)|
-|11. Создать файл sklls.json добавить информацию о скиллах которые будут изучены на курсе в формате JSON|```touch skills.json```|[skills.json](https://github.com/Velorei/Terminal/blob/main/skills.json)|
+|11. Создать файл sklls.json добавить информацию о скиллах которые будут изучены на курсе в формате JSON|```touch skills.json``` [skills.json](https://github.com/Velorei/Terminal/blob/main/skills.json)|
 |12. Отправить сразу 2 файла на внешний репозиторий|```git add preferences.json skills.json``` + ```git commit -m "preferences and skills"``` + ```git push```|
 |13. На веб интерфейсе создать файл bug_report.json|Создаем файл в веб интерфейсе [bug_report.json](https://github.com/Velorei/Terminal/blob/main/bug_report.json)|
 |14. Сделать Commit changes (сохранить) изменения на веб интерфейсе|Сохраняем изменения на веб интерфейсе [bug_report.json](https://github.com/Velorei/Terminal/blob/main/bug_report.json)|
