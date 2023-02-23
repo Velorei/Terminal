@@ -1,1 +1,36 @@
-
+{
+  "Bug_Report_0001": {
+    "ID": 0001,
+    "Data_Submitted": 09.02.2023,
+    "Reposter": "Valeriia D",
+    "Priority": "Low",
+    "Severity": "Text",
+    "Reproducibility": "Always",
+    "Status": "new",
+    "Platform": "Safari 16.3",
+    "OS": "macOS",
+    "OS_Version": "Ventura 13.2",
+    "Summary": "'Никоим образом' item is incorrectly translated on the user registration page after changing the language to Russian",
+    "Description": "'Никоим образом' item is incorrectly translated on the user registration page after changing the language to Russian",
+    "Preconditions": {
+      "1": "The site https://capital.com  is opened", 
+      "2": "The language is changed to Russian",
+    }
+    "Steps_to_Reproduce": {
+      "1": "Click the 'Создать аккаунт' button",
+      "2": "Enter valid data in the 'Адресс электронной почты' and 'Пароль' fields",
+      "3": "Click the 'Продолжить' button",
+      "4": "Click 'Перейти на платформу' button",
+      "5": "Mark the 'Я не являюсь yалоговым резидентом США' checkbox",
+      "6": "Click the 'Пролоджить' button",
+      "7", "Click any item in the 'Причина открытия аккаунта' page",
+      "8" "Pay attention to the 'Никоим образом' item in the 'У вас есть опыт торговли?' page"
+    }
+    "Actual_Result": "'Никоим образом' item is incorrectly translated on the user registration page after changing the language to Russian",
+    "Expected_Result": "'Вовсе нет' item is translated on the user registration page after changing the language to Russian",
+    "Attached_Files": {
+      "Video": "https://www.dropbox.com/s/nzt5qiv56c7718o/Screen%20Recording%202023-02-09%20at%202.22.25%20PM.mov?dl=0",
+      "Picture": "https://www.dropbox.com/s/kbzcekr3xin4q36/Screenshot%202023-02-09%20at%2012.26.35%20PM.png?dl=0"
+    }
+  }
+}
