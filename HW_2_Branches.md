@@ -17,4 +17,3 @@
 |8. Запушить структуру на внешний репозиторий|```git push --set-upstream origin Check_Lists```|
 |9. На внешнем репозитории сделать Pull Request ветки Check_Lists в main|Делаем Pull Request ветки [Check_Lists](https://github.com/Velorei/Terminal/tree/Check_Lists)|
 |10. Синхронизировать Внешнюю и Локальную ветки Main|```git pull```|
-
