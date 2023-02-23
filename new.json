@@ -1,0 +1,10 @@
+{
+	"person_name": "Valeriia Dudenko",
+	"person_age": 25,
+	"person_pets":{
+		"pet_1": "Lev",
+		"pet_2": "Lisa",
+		"pet_3": "Luna"
+	}
+	"person_future_salary": 1000
+}
