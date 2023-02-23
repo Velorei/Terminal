@@ -1,6 +1,6 @@
-|Homework 2 branches||
+|Homework. Branches||
 |---|---|
-|1. На локальном репозитории сделать ветки для:|На локальном компьютере создаем ветки|
+|1. На локальном репозитории сделать ветки для:||
 |- Postman|```git branch Postman```|
 |- Jmeter|```git branch Jmeter```|
 |- Check_Lists|```git branch Check_Lists```|
