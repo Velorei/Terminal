@@ -4,14 +4,14 @@ Reporter - @Velorei
 Priority - Low	
 Severity - Text
 Reproducibility - Always
-Satus - New
+Status - New
 Platform - Safari 16.3
 OS - MacOS
 OS Version - Ventura 13.2
 
 Summary	- "Никоим образом" item is incorrectly translated on the user registration page after changing the language to Russian				
 
-Description	- "Никоим образом" item is incorrectly translated on the user registration page after changing the language to Russian				
+Description - "Никоим образом" item is incorrectly translated on the user registration page after changing the language to Russian				
 
 Preconditions:	
   1. The site https://capital.com  is opened;
@@ -27,9 +27,9 @@ Steps to reproduce:
   7. Click any item in the "Причина открытия аккаунта" page;
   8. Pay attention to the "Никоим образом" item in the "У вас есть опыт торговли?" page.				
 
-Actual result	- "Никоим образом" item is incorrectly translated on the user registration page after changing the language to Russian				
+Actual result - "Никоим образом" item is incorrectly translated on the user registration page after changing the language to Russian				
 
-Expected result -	"Вовсе нет" item is translated on the user registration page after changing the language to Russian				
+Expected result - "Вовсе нет" item is translated on the user registration page after changing the language to Russian				
 
 Additional Information - Reproduced also when Ukrainian language is selected				
 
